@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #007bff;
+  padding: 0 15px;
+}
+.input-box {
+  position: relative;
+  height: 160px;
+  width: 560px;
+  background: #fff;
+  padding: 30px;
+  border-radius: 6px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.input-box textarea {
+  height: 100%;
+  width: 100%;
+  outline: none;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  resize: none;
+  padding: 25px 15px;
+  font-size: 15px;
+  font-weight: 500;
+  caret-color: #007bff;
+}
+.input-box textarea:focus,
+.input-box textarea:valid {
+  border-color: #007bff;
+}
+.input-box.error textarea {
+  border-color: red;
+}
+.input-box textarea::placeholder{
+    font-size: 15px;
+    font-weight: 500;
+  }
+  .input-box .title{
+    position: absolute;
+    top: 38px;
+    left: 45px;
+    color: #007bff;
+  }
+  .input-box.error .title{
+    color: red;
+  }
+  .input-box .characters{
+    position: absolute;
+    bottom: 35px;
+    right: 45px;
+    display: flex;
+    align-items: center;
+    color: #007bff;
+    display: none;
+  }
+  .input-box.active .characters{
+    display: block;
+  }
+  .input-box.error .characters{
+    color: red;
+  }
