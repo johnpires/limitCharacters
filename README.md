@@ -38,13 +38,13 @@ Olá amigos, Espero que estejam indo bem. Hoje vamos criar um limite de caracter
 
 Esses recursos de limitação, você pode ter visto em vários campos de entrada ou áreas, por exemplo, enquanto vamos adicionar o título ao enviar o vídeo no youtube, então temos que manter o texto limitado certo?
 
-Vamos dar uma olhada na introducao do video fornecido no link abaixo, no lado superior podemos ver a borda azul, se inseri mais de 100 caracteres, vamos perceber as mudancas de cores na borda vermelha, título e número. sereão adcionadas cores vermelhas e todos nós sabemos que a cor vermelha é um sinal de erro. se inseri menos de 100, psereão adcionadas cores  azuis.
+Vamos dar uma olhada na introducao do video fornecido no link abaixo, no lado superior podemos ver a borda azul, se inseri mais de 100 caracteres, vamos perceber as mudancas de cores na borda vermelha, título e número. sereão adicionadas cores vermelhas e todos nós sabemos que a cor vermelha é um sinal de erro. se inseri menos de 100, sereão adicionadas cores  azuis.
 
 Agora temos uma ideia que os caracteres limitados neste campo de entrada é 100. Vamos assistir ao vídeo tutorial :
 
 <br>
 
-🎬 - [Put link for video - YouTube ]()
+🎬 - [Limitando caracteres com HTML | CSS | JavaScipt - YouTube ](https://youtu.be/7LOK2B9BN6E)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/26515702/132006418-dd273f74-12ae-4f09-8563-c374bac68827.gif" alt="Limitando Caracteres" />
