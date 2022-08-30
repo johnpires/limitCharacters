@@ -47,7 +47,7 @@ Agora temos uma ideia que os caracteres limitados neste campo de entrada é 100.
 🎬 - [Limitando caracteres com HTML | CSS | JavaScipt - YouTube ](https://youtu.be/7LOK2B9BN6E)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/26515702/132006418-dd273f74-12ae-4f09-8563-c374bac68827.gif" alt="Limitando Caracteres" />
+ <img src="https://user-images.githubusercontent.com/26515702/187557670-c5f84e96-2a0e-46e8-8e10-dc3e6257d8b0.png" alt="Limitando Caracteres" />
 </p>
 
 ## 🤔 Como contribuir
